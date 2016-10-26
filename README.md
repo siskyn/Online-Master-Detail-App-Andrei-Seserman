@@ -3,7 +3,7 @@ Seserman Andrei, grp 931/2
 
 Login page:
 * Login
-* Register (free or paid user) (username, password, email. require confirmation by needing to input code received by email)
+* Register (as free user) (username, password, email. require confirmation by needing to input code received by email)
 
 
 Main page:
@@ -14,6 +14,7 @@ Main page:
 * From wall can select any post to view it complete (all text and the picture if there is one).
 
 Settings page
+* submit registration code to become paid user
 * Profile picture (can change, if offline cache it and submit when online)
 * change password
 * change email
